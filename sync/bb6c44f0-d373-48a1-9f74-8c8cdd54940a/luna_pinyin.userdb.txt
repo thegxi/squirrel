@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	3
+#@/user_id	bb6c44f0-d373-48a1-9f74-8c8cdd54940a
+pei zhi 	配置	c=1 d=1 t=3
+ping 	屏	c=1 d=1 t=2
+shu xu guan 	鼠鬚管	c=1 d=1 t=1
